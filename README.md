@@ -5,8 +5,7 @@
 ### Project Title
 bikeshare analysis
 ### Description
-Describe what your project is about and what it does
-
+This project is about analyzing the bikeshare company called Motivate with help python.
 ### Files used
 Include the files used
 
