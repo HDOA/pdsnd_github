@@ -7,8 +7,10 @@ bikeshare analysis
 ### Description
 This project is about analyzing the bikeshare company called Motivate with help python.
 ### Files used
-Include the files used
-
+chicago.csv
+new_york_city.csv
+washington.csv
+bikeshare.py
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
